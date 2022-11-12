@@ -1,2 +1,2 @@
-# Home lab
+# Splunk home lab
 - Splunk Enterprise tutorial
